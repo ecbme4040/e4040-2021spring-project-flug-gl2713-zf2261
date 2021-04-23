@@ -24,7 +24,8 @@ INSTRUCTIONS for naming the students' solution repository for assignments with m
 To be populated by students, as shown in previous assignments
 The directory tree needs to be shown below  
 
-.\E4040-2021SPRING-PROJECT-FLUG-GL2713-ZF2261  
+.\E4040-2021SPRING-PROJECT-FLUG-GL2713-ZF2261
+```
 |   README.md  
 |           
 +---CryptoPrediction_BTC  
@@ -118,4 +119,4 @@ The directory tree needs to be shown below
     +---weights_CNN  
     +---weights_GRU  
     \---weights_LSTM  
-
+```
