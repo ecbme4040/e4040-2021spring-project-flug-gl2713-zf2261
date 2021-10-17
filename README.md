@@ -2,9 +2,9 @@
 
 ## This is a course project on ECBM E4040 Neural Networks & Deep Learning, taught by Prof. Zoran Kostić in Spring 2020 at Columbia University.
 
-# Contributors: Guangchen (Eric) Lan, Zhongyuan Fu.
+## Contributors: Guangchen (Eric) Lan, Zhongyuan Fu.
 
-# See the 'Final Report.pdf' file for more details.
+## See the 'Final Report.pdf' file for more details.
 
 ## (Re)naming of a project repository shared by multiple students (TODO students)
 Students need to use a 4-letter groupID): 
