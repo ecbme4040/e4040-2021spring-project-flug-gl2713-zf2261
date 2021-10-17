@@ -2,13 +2,9 @@
 
 ## This is a course project on ECBM E4040 Neural Networks & Deep Learning, taught by Prof. Zoran Kostić in Spring 2020 at Columbia University.
 
-## Contributors: Guangchen (Eric) Lan, Zhongyuan Fu.
+## Contributors: Guangchen (Eric) Lan, Zhongyuan Fu. Project Name: FLUG.
 
 ## See the 'Final Report.pdf' file for more details.
-
-## (Re)naming of a project repository shared by multiple students (TODO students)
-Students need to use a 4-letter groupID): 
-* Template: e4040-2021Spring-Project-GroupID-UNI1-UNI2-UNI3. -> Example: e4040-2021Spring-Project-MEME-zz9999-aa9999-aa0000.
 
 # Organization of this directory
 The directory tree is shown below.
