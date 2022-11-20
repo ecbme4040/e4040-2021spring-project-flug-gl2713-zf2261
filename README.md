@@ -1,5 +1,5 @@
 # e4040-2021Spring-project
-This is a course project on ECBM E4040 Neural Networks & Deep Learning, taught by Prof. Zoran Kostić in Spring 2020 at Columbia University.
+This is a course project on ECBM E4040 Neural Networks & Deep Learning, taught by Prof. Zoran Kostić in Spring 2021 at Columbia University.
 
 Contributors: Guangchen (Eric) Lan, Zhongyuan Fu.
 Project Name: FLUG.
